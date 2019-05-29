@@ -25,11 +25,6 @@ void inisialize_array( int array[])
         std::cin >> array[i];
     }
     std::cout << "Finish" << std::endl;
-<<<<<<< HEAD
-    return;
-=======
-    return；
->>>>>>> 5327fd9f8ff2186c2d0313ff1180e13417125ca2
 }
 
 int main()

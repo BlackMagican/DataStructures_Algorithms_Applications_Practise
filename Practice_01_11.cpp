@@ -1,6 +1,8 @@
 #include <iostream>
 
-/* Question: redo Pratise_01_2, if n < 1, throw a expetation which type is char* */
+/* Question: redo Pratise_01_2, 
+    if n < 1, throw a expetation which type is char* 
+*/
 
 template<typename T>
 T count(T value, T& n, T array[])
